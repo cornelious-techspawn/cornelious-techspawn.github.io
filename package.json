@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cornelious-techspawn/cornelious-techspawn.github.io/issues"
   },
-  "homepage": "https://github.com/cornelious-techspawn/cornelious-techspawn.github.io#readme"
+  "homepage": "https://github.com/cornelious-techspawn/cornelious-techspawn.github.io#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^2.24.1"
+  }
 }
