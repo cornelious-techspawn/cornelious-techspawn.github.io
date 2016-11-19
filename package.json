@@ -1,0 +1,19 @@
+{
+  "name": "cornelious-techspawn.github.io",
+  "version": "1.0.0",
+  "description": "Website for github Account",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cornelious-techspawn/cornelious-techspawn.github.io.git"
+  },
+  "author": "Cornelious-techspawn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cornelious-techspawn/cornelious-techspawn.github.io/issues"
+  },
+  "homepage": "https://github.com/cornelious-techspawn/cornelious-techspawn.github.io#readme"
+}
